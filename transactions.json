@@ -1,0 +1,19 @@
+[
+  {"description": "UBER TRIP SYDNEY CBD", "amount": 23.40, "category": "Transport"},
+  {"description": "UBER TRIP AIRPORT", "amount": 61.10, "category": "Transport"},
+  {"description": "OPAL CARD TOP UP", "amount": 50.00, "category": "Transport"},
+  {"description": "SHELL FUEL STATION", "amount": 88.20, "category": "Transport"},
+  {"description": "UBER EATS ORDER THAI", "amount": 34.50, "category": "Meals"},
+  {"description": "MENULOG ORDER PIZZA", "amount": 29.00, "category": "Meals"},
+  {"description": "CAFE COFFEE AND MUFFIN", "amount": 9.80, "category": "Meals"},
+  {"description": "WOOLWORTHS GROCERIES", "amount": 142.75, "category": "Groceries"},
+  {"description": "COLES GROCERIES", "amount": 96.30, "category": "Groceries"},
+  {"description": "ALDI GROCERIES", "amount": 71.15, "category": "Groceries"},
+  {"description": "NETFLIX MONTHLY SUBSCRIPTION", "amount": 18.99, "category": "Subscriptions"},
+  {"description": "SPOTIFY MONTHLY SUBSCRIPTION", "amount": 13.99, "category": "Subscriptions"},
+  {"description": "ADOBE CREATIVE CLOUD SUBSCRIPTION", "amount": 79.99, "category": "Software"},
+  {"description": "GITHUB PRO PLAN", "amount": 6.50, "category": "Software"},
+  {"description": "ANTHROPIC API CREDITS", "amount": 15.00, "category": "Software"},
+  {"description": "OFFICEWORKS PRINTER PAPER", "amount": 24.95, "category": "Office Supplies"},
+  {"description": "OFFICEWORKS DESK LAMP", "amount": 39.00, "category": "Office Supplies"}
+]
